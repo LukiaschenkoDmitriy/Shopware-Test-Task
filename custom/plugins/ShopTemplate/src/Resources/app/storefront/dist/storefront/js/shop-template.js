@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([["shop-template"],{1654:()=>{}},e=>{var p;p=1654,e(e.s=p)}]);
