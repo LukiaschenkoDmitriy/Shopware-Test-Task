@@ -1,9 +1,9 @@
 
 ## Zadanie testowe dla stanowiska Junior Fronted Developer Shopware 6
 ## Spis treści
-* [Zadania](#tasks)
-* [Wykonanie](#execution)
-* [Problemy z wykonaniem](#execution-problem)
+* [Zadania](#zadania)
+* [Wykonanie](#wykonanie)
+* [Problemy z wykonaniem](#problemy-z-wykonaniem)
 
 ## Zadania
 * Utworz nowy szablon o nazwie ShopTemplate i dodaj do sklepu jakis produkt i kategorie (tak bys mogl zrobic zdanie od 2 do 4)
