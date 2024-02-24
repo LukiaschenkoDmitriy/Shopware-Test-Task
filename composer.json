@@ -4,6 +4,7 @@
     "type": "project",
     "require": {
         "composer-runtime-api": "^2.0",
+        "frosh/development-helper": "1.0.3",
         "shopware/administration": "6.5.8.6",
         "shopware/core": "6.5.8.6",
         "shopware/elasticsearch": "6.5.8.6",
