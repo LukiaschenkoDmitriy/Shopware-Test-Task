@@ -5,3 +5,12 @@
         color: red;
     }
 }
+
+
+@media (max-width: 450px) {
+    .product-subtitle {
+        p {
+            color: green;
+        }
+    }
+}
